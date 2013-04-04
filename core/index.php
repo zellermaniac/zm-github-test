@@ -5,8 +5,3 @@
  * and open the template in the editor.
  */
 ?>
-test
-test
-test
-test
-test
